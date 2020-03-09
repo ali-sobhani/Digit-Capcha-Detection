@@ -1,12 +1,12 @@
 # Digit Capcha Detection
 Digit Capcha Detection with Faster-RCNN
 
-![](od_13469.jpg)
+![](od_13469.jpg) ![](od_od_26971.jpg)
 
 
 This repository contains Model and code for ```Digit Capcha Detection``` . We train a Faster-RCNN Model on about 25000 digits in 5000 capcha images
 
-![](result/train.PNG)
+![](train.PNG)
 
 ## Getting Started
 
