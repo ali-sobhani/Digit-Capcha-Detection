@@ -30,9 +30,7 @@ Requirements :
 
 ## Authors
 
-* Ali Akbar Kiaei
 * Ali Sobhani
-* Fatemeh Khorshidi
 
 
 ## License
